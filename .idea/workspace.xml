@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a77e46e7-a0a0-48eb-8c34-f061818423b0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/untitled123/com/company/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/untitled123/com/company/Main.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/company/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/company/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/untitled123.iml" beforeDir="false" afterPath="$PROJECT_DIR$/ASN1_CPT212.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,13 +32,16 @@
     <option name="showMembers" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
-    <property name="settings.editor.selected.configurable" value="preferences.general" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true">
       <option name="MAIN_CLASS_NAME" value="com.company.Main" />
-      <module name="untitled123" />
+      <module name="ASN1_CPT212" />
       <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
       <RunnerSettings RunnerId="Run" />
       <ConfigurationWrapper RunnerId="Run" />
@@ -64,50 +69,62 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="441" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1582642507429">
+    <state x="322" y="20" width="806" height="672" key="#Project_Structure" timestamp="1586024700513">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="441" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1582642507429" />
+    <state x="322" y="20" width="806" height="672" key="#Project_Structure/0.0.1366.768@0.0.1366.768" timestamp="1586024700513" />
+    <state x="279" y="49" key="#Updates" timestamp="1586023011212">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="279" y="49" key="#Updates/0.0.1366.768@0.0.1366.768" timestamp="1586023011212" />
+    <state x="366" y="115" width="632" height="539" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog" timestamp="1586022941830">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="366" y="115" width="632" height="539" key="#com.intellij.openapi.updateSettings.impl.PluginUpdateInfoDialog/0.0.1366.768@0.0.1366.768" timestamp="1586022941830" />
+    <state x="441" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1586023833664">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="441" y="261" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1366.768@0.0.1366.768" timestamp="1586023833664" />
     <state x="99" y="100" width="1168" height="569" key="DiffContextDialog" timestamp="1583654695289">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="99" y="100" width="1168" height="569" key="DiffContextDialog/0.0.1366.768@0.0.1366.768" timestamp="1583654695289" />
-    <state width="1324" height="283" key="GridCell.Tab.0.bottom" timestamp="1583675023450">
+    <state width="1320" height="208" key="GridCell.Tab.0.bottom" timestamp="1586024770942">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="283" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583675023450" />
-    <state width="1324" height="283" key="GridCell.Tab.0.center" timestamp="1583675023449">
+    <state width="1320" height="208" key="GridCell.Tab.0.bottom/0.0.1366.768@0.0.1366.768" timestamp="1586024770942" />
+    <state width="1320" height="208" key="GridCell.Tab.0.center" timestamp="1586024770941">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="283" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1583675023449" />
-    <state width="1324" height="283" key="GridCell.Tab.0.left" timestamp="1583675023449">
+    <state width="1320" height="208" key="GridCell.Tab.0.center/0.0.1366.768@0.0.1366.768" timestamp="1586024770941" />
+    <state width="1320" height="208" key="GridCell.Tab.0.left" timestamp="1586024770941">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="283" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1583675023449" />
-    <state width="1324" height="283" key="GridCell.Tab.0.right" timestamp="1583675023449">
+    <state width="1320" height="208" key="GridCell.Tab.0.left/0.0.1366.768@0.0.1366.768" timestamp="1586024770941" />
+    <state width="1320" height="208" key="GridCell.Tab.0.right" timestamp="1586024770941">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="283" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1583675023449" />
-    <state width="1324" height="234" key="GridCell.Tab.1.bottom" timestamp="1583663636860">
+    <state width="1320" height="208" key="GridCell.Tab.0.right/0.0.1366.768@0.0.1366.768" timestamp="1586024770941" />
+    <state width="1324" height="234" key="GridCell.Tab.1.bottom" timestamp="1583684991700">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583663636860" />
-    <state width="1324" height="234" key="GridCell.Tab.1.center" timestamp="1583663636860">
+    <state width="1324" height="234" key="GridCell.Tab.1.bottom/0.0.1366.768@0.0.1366.768" timestamp="1583684991700" />
+    <state width="1324" height="234" key="GridCell.Tab.1.center" timestamp="1583684991699">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583663636860" />
-    <state width="1324" height="234" key="GridCell.Tab.1.left" timestamp="1583663636860">
+    <state width="1324" height="234" key="GridCell.Tab.1.center/0.0.1366.768@0.0.1366.768" timestamp="1583684991699" />
+    <state width="1324" height="234" key="GridCell.Tab.1.left" timestamp="1583684991699">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583663636860" />
-    <state width="1324" height="234" key="GridCell.Tab.1.right" timestamp="1583663636860">
+    <state width="1324" height="234" key="GridCell.Tab.1.left/0.0.1366.768@0.0.1366.768" timestamp="1583684991699" />
+    <state width="1324" height="234" key="GridCell.Tab.1.right" timestamp="1583684991700">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state width="1324" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583663636860" />
-    <state x="191" y="21" key="SettingsEditor" timestamp="1582642491700">
+    <state width="1324" height="234" key="GridCell.Tab.1.right/0.0.1366.768@0.0.1366.768" timestamp="1583684991700" />
+    <state x="191" y="21" key="SettingsEditor" timestamp="1586023691855">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="191" y="21" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1582642491700" />
+    <state x="191" y="21" key="SettingsEditor/0.0.1366.768@0.0.1366.768" timestamp="1586023691855" />
     <state x="447" y="76" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1582642500953">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
@@ -116,10 +133,14 @@
       <screen x="0" y="0" width="1366" height="768" />
     </state>
     <state x="467" y="307" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.768@0.0.1366.768" timestamp="1583663600544" />
-    <state x="346" y="170" key="run.anything.popup" timestamp="1583473548159">
+    <state x="325" y="2" width="706" height="766" key="new project wizard" timestamp="1585248191924">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
-    <state x="346" y="170" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1583473548159" />
+    <state x="325" y="2" width="706" height="766" key="new project wizard/0.0.1366.768@0.0.1366.768" timestamp="1585248191924" />
+    <state x="346" y="170" key="run.anything.popup" timestamp="1583683753592">
+      <screen x="0" y="0" width="1366" height="768" />
+    </state>
+    <state x="346" y="170" key="run.anything.popup/0.0.1366.768@0.0.1366.768" timestamp="1583683753592" />
     <state x="346" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1583662541278">
       <screen x="0" y="0" width="1366" height="768" />
     </state>
